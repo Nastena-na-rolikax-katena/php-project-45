@@ -21,5 +21,8 @@
     "description": "hexlet php-project-45",
     "require": {
         "wp-cli/php-cli-tools": "^0.13.0"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^4.0"
     }
 }

@@ -6,7 +6,10 @@
     "autoload": {
         "psr-4": {
             "Hexlet\\Code\\": "src/"
-        }
+        },
+        "files": [
+            "src/Cli.php"
+        ]
     },
     "authors": [
         {
@@ -16,5 +19,7 @@
     ],
     "license": "MIT",
     "description": "hexlet php-project-45",
-    "require": {}
+    "require": {
+        "wp-cli/php-cli-tools": "^0.13.0"
+    }
 }

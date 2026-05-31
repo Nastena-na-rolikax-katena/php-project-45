@@ -6,4 +6,4 @@ require_once __DIR__ . '/../vendor/autoload.php';
 
 use BrainGames\Cli;
 
-print_r(Cli\calcGame());
+print_r(Cli\progression());

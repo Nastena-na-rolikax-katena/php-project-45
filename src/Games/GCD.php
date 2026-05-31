@@ -2,12 +2,6 @@
 
 namespace BrainGames\Cli;
 
-/*function gcdGame()
-{
-    print_r("Hello");
-}
-*/
-
 function gcdGame(): void
 {
     $gameData = [

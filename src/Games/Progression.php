@@ -16,7 +16,7 @@ function progression(): void
             for ($i = 0; $i < $count; $i++) {
                 $arr[0] = $firstEl;
                 $arr[$i] = $firstEl + $i * $difference;
-                }
+            }
 
                 $randomArr = $arr;
                 $randomKey = array_rand($randomArr);

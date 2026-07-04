@@ -17,20 +17,21 @@ CODE
 Игры:
 
 Калькулятор — вычисление арифметических выражений
+
+Пример игры: https://asciinema.org/a/wgNZ1uEMxBV8ec9R
+
 Прогрессия — поиск пропущенного числа в последовательности
+
+Пример игры: https://asciinema.org/a/FRr0QbgMk3XfUgXo
+
 Чётное число — определение чётности числа
+
+Пример игры: https://asciinema.org/a/oKI3BbtchA2RkoZ6
+
 НОД — наибольший общий делитель двух чисел
+
+Пример игры: https://asciinema.org/a/JJh0wsgZEsEOcrjE
+
 Простое число — проверка числа на простоту
 
-Примеры игры:
-
-https://asciinema.org/a/oKI3BbtchA2RkoZ6
-
-https://asciinema.org/a/wgNZ1uEMxBV8ec9R
-
-https://asciinema.org/a/JJh0wsgZEsEOcrjE
-
-https://asciinema.org/a/FRr0QbgMk3XfUgXo
-
-https://asciinema.org/a/bMg34X6xNIRsh9Bq
-
+Пример игры: https://asciinema.org/a/bMg34X6xNIRsh9Bq

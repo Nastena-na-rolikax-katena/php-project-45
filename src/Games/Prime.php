@@ -4,11 +4,12 @@ namespace BrainGames\Cli;
 
 function isPrime(int $num): bool
 {
-    $squareRoot = floor(sqrt($num));
-    $dividers = range(2, $squareRoot);
+    if ($num < 2) {
+        return false;
+    }
 
-    foreach ($dividers as $divider) {
-        if ($num % $divider === 0) {
+    for ($i = 2; $i <= $num / 2; $i++) {
+        if ($num % $i === 0) {
             return false;
         }
     }

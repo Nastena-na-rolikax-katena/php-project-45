@@ -10,3 +10,13 @@
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=Nastena-na-rolikax-katena_php-project-45&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=Nastena-na-rolikax-katena_php-project-45)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Nastena-na-rolikax-katena_php-project-45&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Nastena-na-rolikax-katena_php-project-45)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Nastena-na-rolikax-katena_php-project-45&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Nastena-na-rolikax-katena_php-project-45)
+
+https://asciinema.org/a/oKI3BbtchA2RkoZ6
+
+https://asciinema.org/a/wgNZ1uEMxBV8ec9R
+
+https://asciinema.org/a/JJh0wsgZEsEOcrjE
+
+https://asciinema.org/a/FRr0QbgMk3XfUgXo
+
+https://asciinema.org/a/bMg34X6xNIRsh9Bq

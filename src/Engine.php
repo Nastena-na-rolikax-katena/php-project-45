@@ -11,7 +11,7 @@ const QUESTION = 'question';
 
 function greeting(): string
 {
-    promptLine('Welcome to the Brain Game!');
+    promptLine('Welcome to the Brain Games!');
     $name = getAnswer('May I have your name?');
     promptLine("Hello, $name!");
     return $name;

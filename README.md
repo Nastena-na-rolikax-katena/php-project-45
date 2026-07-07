@@ -49,6 +49,7 @@ Hexlet tests and linter status:
 # Setup
 
 git clone git@github.com:Nastena-na-rolikax-katena/php-project-45.git
+
 cd php-project-45
 
 make install

@@ -1,4 +1,6 @@
-### Hexlet tests and linter status:
+# ИГРЫ РАЗУМА <h1>
+
+Hexlet tests and linter status:
 [![Actions Status](https://github.com/Nastena-na-rolikax-katena/php-project-45/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Nastena-na-rolikax-katena/php-project-45/actions)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Nastena-na-rolikax-katena_php-project-45&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Nastena-na-rolikax-katena_php-project-45)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Nastena-na-rolikax-katena_php-project-45&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Nastena-na-rolikax-katena_php-project-45)
@@ -11,7 +13,9 @@
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Nastena-na-rolikax-katena_php-project-45&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Nastena-na-rolikax-katena_php-project-45)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Nastena-na-rolikax-katena_php-project-45&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Nastena-na-rolikax-katena_php-project-45)
 
-«Игры разума» — набор из пяти консольных игр по мотивам популярных мобильных приложений для тренировки мозга. Каждая игра задаёт вопросы, на которые нужно дать правильные ответы. После трёх правильных ответов игра считается пройденной; неправильный ответ завершает игру и предлагает пройти её заново.
+# About 
+
+**«Игры разума»** — набор из пяти консольных игр по мотивам популярных мобильных приложений для тренировки мозга. Каждая игра задаёт вопросы, на которые нужно дать правильные ответы. После трёх правильных ответов игра считается пройденной; неправильный ответ завершает игру и предлагает пройти её заново.
 
 Игры:
 
@@ -34,3 +38,19 @@
 Простое число — проверка числа на простоту
 
 Пример игры: https://asciinema.org/a/bMg34X6xNIRsh9Bq
+
+# Prerequisites
+
+* Linux, Macos, WSL
+* PHP >=8.2
+* Make
+* Git
+
+# Setup
+
+git clone git@github.com:Nastena-na-rolikax-katena/php-project-45.git
+cd php-project-45
+
+make install
+
+

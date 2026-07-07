@@ -4,7 +4,7 @@ namespace BrainGames\Cli;
 
 function randomSign(): string
 {
-    $signs = ['+', '-', '*', '/'];
+    $signs = ['+', '-', '*'];
     $randomKey = array_rand($signs);
     $randomSign = $signs[$randomKey];
     return $randomSign;
@@ -26,7 +26,6 @@ function calcGame(): void
                 "+" => $num1 + $num2,
                 "-" => $num1 - $num2,
                 "*" => $num1 * $num2,
-                "/" => $num1 / $num2,
             };
 
             return [
